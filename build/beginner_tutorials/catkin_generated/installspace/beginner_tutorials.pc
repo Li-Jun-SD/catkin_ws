@@ -3,6 +3,6 @@ prefix=/home/exbot/catkin_ws/install
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/exbot/catkin_ws/install/include
 Libs: -L/home/exbot/catkin_ws/install/lib 
 Requires: 
